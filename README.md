@@ -1,1 +1,1 @@
-# blkeaklycubic.github.io
+# bleaklycubic.github.io
