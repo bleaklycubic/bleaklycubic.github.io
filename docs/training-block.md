@@ -8,7 +8,7 @@ permalink: /training/
 
 |Week|Mo|Tu|We|Th|Fr|Sa|Su|
 |---|---|---|---|---|---|---|---|
-|1: 5/8/23 - 5/14/23|Rest|3x5 at 70%|Intervals|3x5 at 70%|Tempo Run|3x5 at 70%|60min LSS Peloton|
+|1: 5/8/23 - 5/14/23|Rest|3x5 at 70%|Intervals (opt. 1)|3x5 at 70%|Tempo Run (opt. 1)|3x5 at 70%|60min LSS Peloton|
 |2: 5/15/23 - 5/21/23|Rest|3x5 at 80%|Intervals|3x5 at 80%|Tempo Run|3x5 at 80%|60min LSS Peloton|
 |3: 5/22/23 - 5/28/23|Rest|3x3 at 90%|Intervals (easy)|3x3 at 90%|Tempo Run (easy)|3x3 at 90%|60min LSS Peloton|
 |4: 5/29/23 - 6/4/23|Rest|3x5 at 75%|Intervals|3x5 at 75%|Tempo Run|3x5 at 75%|60min LSS Peloton|
@@ -45,20 +45,21 @@ Overhead Press / 3 x 10 Single-Leg RDL
 ### Cool down
 1 mile jog
 ### Options
-* 6 x (600m sprint, rest for 3-5 minutes)
-* 2 x ((8 × (200m at mile pace , 200m jog)), 4 minutes rest)
-* 8 x (400m at mile pace, 400m jog)
-* 16 x (200m at mile pace, 200m meters jog)
-* 10 x (10-15 second hill sprint, walk down hill rest )
+1. 4 x (600m sprint, rest for 3-5 minutes)
+1. 6 x (600m sprint, rest for 3-5 minutes)
+1. 2 x ((8 × (200m at mile pace , 200m jog)), 4 minutes rest)
+1. 8 x (400m at mile pace, 400m jog)
+1. 16 x (200m at mile pace, 200m meters jog)
+1. 10 x (10-15 second hill sprint, walk down hill rest )
 
 ## Tempo Run
 ### Warm up / cooldown
 1 mile jog
 ### Options
-* 5 x (1km at tempo pace, 200m jog)
-* 4 x (1.2km at tempo pace, 4 minutes rest)
-* 3 x (1 mile at tempo pace, walk for 1 minute)
-* 3 miles at tempo pace
+1. 5 x (1km at tempo pace, 200m jog)
+1. 4 x (1.2km at tempo pace, 4 minutes rest)
+1. 3 x (1 mile at tempo pace, walk for 1 minute)
+1. 3 miles at tempo pace
 
 ## Paces
 **Mile:** 6:00<br>
