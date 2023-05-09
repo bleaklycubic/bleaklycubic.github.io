@@ -8,15 +8,15 @@ permalink: /training/
 
 |Week|Mo|Tu|We|Th|Fr|Sa|Su|
 |---|---|---|---|---|---|---|---|
-|1: 5/1/23 - 5/7/23|Rest|3x5 at 70%|Intervals|3x5 at 70%|Tempo Run|3x5 at 70%|60min LSS Peloton|
-|2: 5/8/23 - 5/14/23|Rest|3x5 at 80%|Intervals|3x5 at 80%|Tempo Run|3x5 at 80%|60min LSS Peloton|
-|3: 5/15/23 - 5/21/23|Rest|3x3 at 90%|Intervals (easy)|3x3 at 90%|Tempo Run (easy)|3x3 at 90%|60min LSS Peloton|
-|4: 5/22/23 - 5/28/23|Rest|3x5 at 75%|Intervals|3x5 at 75%|Tempo Run|3x5 at 75%|60min LSS Peloton|
-|5: 5/29/23 - 6/4/23|Rest|3x3 at 85%|Intervals|3x3 at 85%|Tempo Run|3x3 at 85%|60min LSS Peloton|
-|6: 6/5/23 - 6/11/23|Rest|3x1 at 95%|Intervals (easy)|3x1 at 95%|Tempo Run (easy)|3x1 at 95%|60min LSS Peloton|
-|7: 6/12/23 - 6/18/23|Rest|3x5 at 70%|Intervals|3x5 at 70%|Tempo Run|3x5 at 70%|60min LSS Peloton|
-|8: 6/19/23 - 6/25/23|Rest|3x5 at 80%|Intervals|3x5 at 80%|Tempo Run|3x5 at 80%|60min LSS Peloton|
-|9: 6/26/23 - 7/2/23|Rest|3x3 at 90%|Intervals (easy)|3x3 at 90%|Tempo Run (easy)|3x3 at 90%|60min LSS Peloton|
+|1: 5/8/23 - 5/14/23|Rest|3x5 at 70%|Intervals|3x5 at 70%|Tempo Run|3x5 at 70%|60min LSS Peloton|
+|2: 5/15/23 - 5/21/23|Rest|3x5 at 80%|Intervals|3x5 at 80%|Tempo Run|3x5 at 80%|60min LSS Peloton|
+|3: 5/22/23 - 5/28/23|Rest|3x3 at 90%|Intervals (easy)|3x3 at 90%|Tempo Run (easy)|3x3 at 90%|60min LSS Peloton|
+|4: 5/29/23 - 6/4/23|Rest|3x5 at 75%|Intervals|3x5 at 75%|Tempo Run|3x5 at 75%|60min LSS Peloton|
+|5: 6/5/23 - 6/11/23|Rest|3x3 at 85%|Intervals|3x3 at 85%|Tempo Run|3x3 at 85%|60min LSS Peloton|
+|6: 6/12/23 - 6/18/23|Rest|3x1 at 95%|Intervals (easy)|3x1 at 95%|Tempo Run (easy)|3x1 at 95%|60min LSS Peloton|
+|7: 6/19/23 - 6/25/23|Rest|3x5 at 70%|Intervals|3x5 at 70%|Tempo Run|3x5 at 70%|60min LSS Peloton|
+|8: 6/26/23 - 7/2/23|Rest|3x5 at 80%|Intervals|3x5 at 80%|Tempo Run|3x5 at 80%|60min LSS Peloton|
+|9: 7/3/23 - 7/9/23|Rest|3x3 at 90%|Intervals (easy)|3x3 at 90%|Tempo Run (easy)|3x3 at 90%|60min LSS Peloton|
 
 
 ## Lifting Routine
@@ -28,15 +28,14 @@ Front Squat / Pull-ups<br>
 100 KB Swings
 ### Friday
 Front Squat / Upper Body Stretch Routine<br>
-Overhead Press / Single-Leg RDL
+Overhead Press / 3 x 10 Single-Leg RDL
 ### Lifting Percentages
 
 ||70|75|80|85|90|95|max|
 |---|---|---|---|---|---|---|---|
-|Front Squat||||||||
-|pull-ups|6|7|7|8|8|9|9|
-|Overhead Press|81|86|92|98|104|109|115|
-|Single-Leg RDL||||||||
+|Front Squat|121|130|138|147|156|164|173|
+|pull-ups|7|8|8|9|9|10|10|
+|Overhead Press|85|92|98|104|110|116|122|
 
 ## Intervals
 ### Warm up
