@@ -34,8 +34,8 @@ Overhead Press / 3 x 10 Single-Leg RDL
 ||70|75|80|85|90|95|max|
 |---|---|---|---|---|---|---|---|
 |Front Squat|121|130|138|147|156|164|173|
-|pull-ups|7|8|8|9|9|10|10|
-|Overhead Press|85|92|98|104|110|116|122|
+|Pull-ups|7|8|8|9|9|10|10|
+|Overhead Press|88|94|100|106|113|119|125|
 
 ## Intervals
 ### Warm up
