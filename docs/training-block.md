@@ -26,7 +26,7 @@ Overhead Press / Lower Body Stretch Routine
 ### Thursday
 Front Squat / Pull-ups<br>
 100 KB Swings
-### Friday
+### Saturday
 Front Squat / Upper Body Stretch Routine<br>
 Overhead Press / 3 x 10 Single-Leg RDL
 ### Lifting Percentages
@@ -51,6 +51,9 @@ Overhead Press / 3 x 10 Single-Leg RDL
 1. 8 x (400m at mile pace, 400m jog)
 1. 16 x (200m at mile pace, 200m meters jog)
 1. 10 x (10-15 second hill sprint, walk down hill rest )
+1. 4 x (200m at 10k/5k/mile/mile, 90 seconds jog)
+1. 
+
 
 ## Tempo Run
 ### Warm up / cooldown
@@ -64,6 +67,7 @@ Overhead Press / 3 x 10 Single-Leg RDL
 ## Paces
 **Mile:** 6:00<br>
 **5k:** 7:55<br>
+**10k** 8:10<br>
 **Tempo:** 8:20<br>
 
 
