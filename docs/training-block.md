@@ -14,9 +14,6 @@ permalink: /training/
 |4: 5/29/23 - 6/4/23|Rest|3x5 at 75%|Intervals|3x5 at 75%|Tempo Run|3x5 at 75%|60min LSS Peloton or Run|
 |5: 6/5/23 - 6/11/23|Rest|3x3 at 85%|Intervals|3x3 at 85%|Tempo Run|3x3 at 85%|60min LSS Peloton or Run|
 |6: 6/12/23 - 6/18/23|Rest|3x1 at 95%|Intervals (easy)|3x1 at 95%|Tempo Run (easy)|3x1 at 95%|60min LSS Peloton or Run|
-|7: 6/19/23 - 6/25/23|Rest|3x5 at 70%|Intervals|3x5 at 70%|Tempo Run|3x5 at 70%|60min LSS Peloton or Run|
-|8: 6/26/23 - 7/2/23|Rest|3x5 at 80%|Intervals|3x5 at 80%|Tempo Run|3x5 at 80%|60min LSS Peloton or Run|
-|9: 7/3/23 - 7/9/23|Rest|3x3 at 90%|Intervals (easy)|3x3 at 90%|Tempo Run (easy)|3x3 at 90%|60min LSS Peloton or Run|
 
 
 ## Lifting Routine
@@ -73,6 +70,8 @@ Overhead Press / 3 x 10 Single-Leg RDL
 **Tempo:** 8:20<br>
 
 ## Progress notes
+6/4/23 - ran a 5k and lifted afterward. Took it slightly easier than plan, but probably should've taken it even easier. Was real beat aftewards.
+
 Got sick Thursday, 5/18. Didn't exercise 5/18 - 5/20. Decided to repeat week 3 and push the training block forward by a week, ending July 16th instead of July 9th.
 
 Front Squat feels easier than OH press. I think when I test next block I'll see a substantially higher front squat.
@@ -168,8 +167,9 @@ loaded carry
 
 
 # long term plan
-july - mid-august: black - up to 12-15 miles/week
-mid-august - october: green - up to 20 miles/week
-november - decemnber: easy strength and running up to 30 miles/week
-January - April 2024: marathon specific training, up to 50 miles/week
+up to late june: current black block - up to 12-15 miles/week
+july - august: green - up to 20 miles/week
+september - mid-november: green - up to 25-30 miles/week
+november - december: easy strength and running up to 35 miles/week
+January - April 2024: marathon specific training, up to 45 miles/week
 -->
