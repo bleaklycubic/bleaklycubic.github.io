@@ -5,6 +5,7 @@ permalink: /training/
 ---
 
 ## Schedule
+
 ||Mo|Tu|We|Th|Fr|Sa|Su|
 |---|---|---|---|---|---|---|---|
 |1: 7/10/23 – 7/16/23|3x5 at 75%|4 miles|Rest|3 miles|3x5 at 75%|3 miles|5 miles|
@@ -30,9 +31,9 @@ Deadlift / OH Press
 
 ||70|75|80|85|90|95|max|
 |---|---|---|---|---|---|---|---|
-|Front Squat|121 (55kg) |130 (59kg)|138 (63kg)|147 (67kg) |156 (71kg)|164 (75kg)|173|
-|Pull-ups|7|8|8|9|9|10|10|
-|Overhead Press|88 (40kg)|94 (43kg)|100 (45kg)|106 (48kg)|113 (51kg)|119 (54kg) |125|
+|Front Squat|140 (64kg) |150 (68kg)|160 (73kg)|170 (77kg) |180 (82kg)|190 (86kg)|200|
+|Pull-ups|9|10|10|11|12|12|13|
+|Overhead Press|90 (41kg)|97 (44kg)|103 (47kg)|110 (50kg)|116 (53kg)|123 (56kg) |129|
 
 
 ## Intervals
