@@ -21,8 +21,8 @@ permalink: /training/
 
 ## Lifting Routine
 ### Tuesday 
-Front Squat / Chin-ups
-Deadlift / OH Press<br>
+Front Squat / Chin-ups<br>
+Deadlift / OH Press
 ### Thursday
 Front Squat / Chin-up<br>
 Deadlift / OH Press
