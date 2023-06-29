@@ -5,27 +5,26 @@ permalink: /training/
 ---
 
 ## Schedule
-
-|Week|Mo|Tu|We|Th|Fr|Sa|Su|
+||Mo|Tu|We|Th|Fr|Sa|Su|
 |---|---|---|---|---|---|---|---|
-|1: 5/8/23 - 5/14/23|Rest|3x5 at 70%|Intervals (opt. 1)|3x5 at 70%|Tempo Run (opt. 1)|3x5 at 70%|60min LSS Peloton or Run|
-|2: 5/15/23 - 5/21/23|Rest|3x5 at 80%|Intervals|3x5 at 80%|Tempo Run|3x5 at 80%|60min LSS Peloton or Run|
-|3: 5/22/23 - 5/28/23|Rest|3x3 at 90%|Intervals (easy)|3x3 at 90%|Tempo Run (easy)|3x3 at 90%|60min LSS Peloton or Run|
-|4: 5/29/23 - 6/4/23|Rest|3x5 at 75%|Intervals|3x5 at 75%|Tempo Run|3x5 at 75%|60min LSS Peloton or Run|
-|5: 6/5/23 - 6/11/23|Rest|3x3 at 85%|Intervals|3x3 at 85%|Tempo Run|3x3 at 85%|60min LSS Peloton or Run|
-|6: 6/12/23 - 6/18/23|Rest|3x1 at 95%|Intervals (easy)|3x1 at 95%|Tempo Run (easy)|3x1 at 95%|60min LSS Peloton or Run|
+|1: 7/10/23 – 7/16/23|3x5 at 75%|4 miles|Rest|3 miles|3x5 at 75%|3 miles|5 miles|
+|2: 7/17/23 – 7/23/23|3x5 at 80%|4 miles|Rest|3 miles|3x5 at 80%|3 miles|6 miles|
+|3: 7/24/23 – 7/30/23|3x3 at 90%|4 miles|Rest|3 miles|3x3 at 90%|3 miles|6 miles|
+|4: 7/31/23 – 8/6/23|3x5 at 75%|5 miles|Rest|3 miles|3x5 at 75%|3 miles|6 miles|
+|5: 8/7/23 – 8/13/23|3x3 at 80%|5 miles|Rest|3 miles|3x3 at 80%|3 miles|6 miles|
+|6: 8/14/23 – 8/20/23|3x1 at 90%|5 miles|Rest|4 miles|3x1 at 90%|3 miles|6 miles|
+|7: 8/21/23 – 8/27/23|SE 3 x 30|4 miles|Rest|SE 3 x 35|4 miles|SE 2 x 40|6 miles: tempo run|
+|8: 8/28/23 – 9/3/23|SE 3 x 40|5 miles|Rest|SE 3 x 45|4 miles|SE 2 x 50|6 miles: tempo run|
+|9: 9/4/23 – 9/10/23|SE 3 x 50|6 miles|Rest|SE 3 x 55|4 miles|SE 2 x 60|6 miles: tempo run|
 
 
 ## Lifting Routine
 ### Tuesday 
-Front Squat / Pull-ups<br>
-Overhead Press / Lower Body Stretch Routine
+Front Squat / Chin-ups
+Deadlift / OH Press<br>
 ### Thursday
-Front Squat / Pull-ups<br>
-100 KB Swings
-### Saturday
-Front Squat / Upper Body Stretch Routine<br>
-Overhead Press / 3 x 10 Single-Leg RDL
+Front Squat / Chin-up<br>
+Deadlift / OH Press
 
 ### Lifting Percentages
 
@@ -70,21 +69,51 @@ Overhead Press / 3 x 10 Single-Leg RDL
 **Tempo:** 8:20<br>
 
 ## Progress notes
-6/4/23 - ran a 5k and lifted afterward. Took it slightly easier than plan, but probably should've taken it even easier. Was real beat aftewards.
 
-Got sick Thursday, 5/18. Didn't exercise 5/18 - 5/20. Decided to repeat week 3 and push the training block forward by a week, ending July 16th instead of July 9th.
-
-Front Squat feels easier than OH press. I think when I test next block I'll see a substantially higher front squat.
-
-Left knee pain is back, particularly exacerbated by front squat.
-
-
-# Max Progress
-||early may 23|||||||
+# Maxes
+||early may 23|late june 23||||||
 |---|---|---|---|---|---|---|---|
-|Front Squat|173lb|||||||
-|Pull-ups|10 reps|||||||
-|Overhead Press|125lb|||||||
+|Front Squat|173lb|200lb||||||
+|Chin-ups|10 reps|13 reps||||||
+|Overhead Press|125lb|129lb||||||
+
+
+
+# Previous Training Blocks
+
+## May - June 2023
+### Notes
+Volume was a little higher than I could handle I think. Was pretty worn out toward the end. 
+
+Weights didn't feel terribly heavy at any point though.
+
+Got sick and had to repeat week three, so turned into a 7 week block.
+
+Added in some deadlifting and weighted carries near the end.
+
+Rarely actually did 100 swings.
+
+
+### Schedule
+|Week|Mo|Tu|We|Th|Fr|Sa|Su|
+|---|---|---|---|---|---|---|---|
+|1: 5/8/23 - 5/14/23|Rest|3x5 at 70%|Intervals (opt. 1)|3x5 at 70%|Tempo Run (opt. 1)|3x5 at 70%|60min LSS Peloton or Run|
+|2: 5/15/23 - 5/21/23|Rest|3x5 at 80%|Intervals|3x5 at 80%|Tempo Run|3x5 at 80%|60min LSS Peloton or Run|
+|3: 5/22/23 - 5/28/23|Rest|3x3 at 90%|Intervals (easy)|3x3 at 90%|Tempo Run (easy)|3x3 at 90%|60min LSS Peloton or Run|
+|4: 5/29/23 - 6/4/23|Rest|3x5 at 75%|Intervals|3x5 at 75%|Tempo Run|3x5 at 75%|60min LSS Peloton or Run|
+|5: 6/5/23 - 6/11/23|Rest|3x3 at 85%|Intervals|3x3 at 85%|Tempo Run|3x3 at 85%|60min LSS Peloton or Run|
+|6: 6/12/23 - 6/18/23|Rest|3x1 at 95%|Intervals (easy)|3x1 at 95%|Tempo Run (easy)|3x1 at 95%|60min LSS Peloton or Run|
+
+### Routine
+#### Tuesday 
+Front Squat / Pull-ups<br>
+Overhead Press / Lower Body Stretch Routine
+#### Thursday
+Front Squat / Pull-ups<br>
+100 KB Swings
+#### Saturday
+Front Squat / Upper Body Stretch Routine<br>
+Overhead Press / 3 x 10 Single-Leg RDL
 
 <!-- 
 possible clusters
@@ -106,17 +135,6 @@ single leg rdl
 
 ## Next Lifting Routine
 ### Tuesday 
-Front Squat / Chin-ups<br>
-Overhead Press / Lower Body Stretch Routine
-### Thursday
-Front Squat / Chin-ups<br>
-100 KB Swings
-### Saturday
-Front Squat / Upper Body Stretch Routine<br>
-Overhead Press / 3 x 10 Single-Leg RDL
-
-## Oxt Lifting Routine
-### Tuesday 
 Back Squat / Rows<br>
 Push-ups / Single-leg RDL
 ### Thursday
@@ -129,16 +147,18 @@ Warm-up: 15 Goblet squats, 75 kb swings<br>
 2x5 pull-ups / ab wheel<br>
 loaded carry
 
-## Next Black Schedule
+## Next Green Schedule
 ||Mo|Tu|We|Th|Fr|Sa|Su|
 |---|---|---|---|---|---|---|---|
-|Week 1|Rest|3x5 at 70% and Run|Intervals|3x5 at 70%|Tempo Run|3x5 at 70%|E|
-|Week 2|Rest|3x5 at 80% and Run|Intervals|3x5 at 80%|Tempo Run|3x5 at 80%|E|
-|Week 3|Rest|3x3 at 90%|Intervals|3x3 at 90%|Tempo Run|3x3 at 90%|E|
-|Week 4|Rest|3x5 at 75% and Run|Intervals|3x5 at 75%|Tempo Run|3x5 at 75%|E|
-|Week 5|Rest|3x3 at 85% and Run|Intervals|3x3 at 85%|Tempo Run|3x3 at 85%|E|
-|Week 6|Rest|3x1 at 95%|Intervals|3x1 at 95%|Tempo Run|3x1 at 95%|E|
-
+|1: 9/11/23 – 9/17/23|3x5 at 75%|5 miles|Rest|4 miles|3x5 at 75%|3 miles|8 miles|
+|2: 9/18/23 – 9/24/23|3x5 at 80%|5 miles|Rest|4 miles|3x5 at 80%|3 miles|8 miles|
+|3: 9/25/23 – 10/1/23|3x3 at 90%|5 miles|Rest|4 miles|3x3 at 90%|3 miles|9 miles|
+|4: 10/2/23 – 10/8/23|3x5 at 75%|5 miles|Rest|4 miles|3x5 at 75%|3 miles|9 miles|
+|5: 10/9/23 – 10/15/23|3x3 at 80%|6.5 miles|Rest|4 miles|3x3 at 80%|3 miles|9 miles|
+|6: 10/16/23 – 10/22/23|3x1 at 90%|6.5 miles|Rest|4.5 miles|3x1 at 90%|3 miles|9 miles|
+|7: 10/23/23 – 10/29/23|SE 3 x 30|6 miles|Rest|SE 3 x 35|5 miles|SE 2 x 40|6 miles: tempo run|
+|8: 10/30/23 – 11/5/23|SE 3 x 40|6 miles|Rest|SE 3 x 45|6 miles|SE 2 x 50|6 miles: tempo run|
+|9: 11/6/23 – 11/12/23|SE 3 x 50|6 miles|Rest|SE 3 x 55|6 miles|SE 2 x 60|7 miles: tempo run|
 
 
 ## Black Schedule Template
@@ -167,9 +187,9 @@ loaded carry
 
 
 # long term plan
-up to late june: current black block - up to 12-15 miles/week
+up to late june: current black block - up to 15 miles/week
 july - august: green - up to 20 miles/week
-september - mid-november: green - up to 25-30 miles/week
+september - october: green - up to 25 miles/week
 november - december: easy strength and running up to 35 miles/week
 January - April 2024: marathon specific training, up to 45 miles/week
 -->
