@@ -72,6 +72,7 @@ Deadlift / OH Press
 ## Progress notes
 
 # Maxes
+
 ||early may 23|late june 23||||||
 |---|---|---|---|---|---|---|---|
 |Front Squat|173lb|200lb||||||
