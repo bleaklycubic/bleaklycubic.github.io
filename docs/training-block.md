@@ -22,10 +22,13 @@ permalink: /training/
 ## Lifting Routine
 ### Tuesday 
 Front Squat / Chin-ups<br>
-Deadlift / OH Press
+Deadlift / OH Press<br>
+Hanging Leg Raises
+
 ### Thursday
 Front Squat / Chin-up<br>
-Deadlift / OH Press
+Deadlift / OH Press<br>
+Loaded Carry
 
 ### Lifting Percentages
 
@@ -52,6 +55,8 @@ Deadlift / OH Press
 1. 16 x (200m at mile pace, 200m meters jog)
 1. 10 x (10-15 second hill sprint, walk down hill rest )
 1. 4 x (200m at 10k/5k/mile/mile, 90 seconds jog)
+1. 3-4 x (4 minutes at 5k pace, 2 minutes jog)
+
 
 
 ## Tempo Run
@@ -64,10 +69,10 @@ Deadlift / OH Press
 1. 3 miles at tempo pace
 
 ## Paces
-**Mile:** 6:00<br>
-**5k:** 7:55<br>
-**10k** 8:10<br>
-**Tempo:** 8:20<br>
+**Mile:** 6:15<br>
+**5k:** 6:45<br>
+**10k** 7:10<br>
+**Tempo:** 7:20<br>
 
 ## Progress notes
 
@@ -97,6 +102,7 @@ Rarely actually did 100 swings.
 
 
 ### Schedule
+
 |Week|Mo|Tu|We|Th|Fr|Sa|Su|
 |---|---|---|---|---|---|---|---|
 |1: 5/8/23 - 5/14/23|Rest|3x5 at 70%|Intervals (opt. 1)|3x5 at 70%|Tempo Run (opt. 1)|3x5 at 70%|60min LSS Peloton or Run|
