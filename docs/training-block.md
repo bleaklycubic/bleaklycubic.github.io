@@ -8,15 +8,15 @@ permalink: /training/
 
 ||Mo|Tu|We|Th|Fr|Sa|Su|
 |---|---|---|---|---|---|---|---|
-|1: 7/10/23 – 7/16/23|3x5 at 75%|4 miles|Rest|4 miles|3x5 at 75%|4 miles|5 miles|
-|2: 7/17/23 – 7/23/23|3x5 at 80%|4 miles|Rest|4 miles|3x5 at 80%|4 miles|6 miles|
-|3: 7/24/23 – 7/30/23|3x3 at 90%|4 miles|Rest|4 miles|3x3 at 90%|4 miles|6 miles|
-|4: 7/31/23 – 8/6/23|3x5 at 75%|5 miles|Rest|5 miles|3x5 at 75%|5 miles|7 miles|
-|5: 8/7/23 – 8/13/23|3x5 at 80%|5 miles|Rest|5 miles|3x5 at 80%|5 miles|7 miles|
-|6: 8/14/23 – 8/20/23|3x3 at 90%|5 miles|Rest|5 miles|3x3 at 90%|5 miles|7 miles|
-|7: 8/21/23 – 8/27/23|SE 3 x 30|4 miles|Rest|SE 3 x 35|4 miles|SE 2 x 40|6 miles: tempo run|
-|8: 8/28/23 – 9/3/23|SE 3 x 40|5 miles|Rest|SE 3 x 45|4 miles|SE 2 x 50|6 miles: tempo run|
-|9: 9/4/23 – 9/10/23|SE 3 x 50|6 miles|Rest|SE 3 x 55|4 miles|SE 2 x 60|6 miles: tempo run|
+|1: 7/17/23 – 7/23/23|3x5 at 75%|4 miles|Rest|4 miles|3x5 at 75%|4 miles|5 miles|
+|2: 7/24/23 – 7/30/23|3x5 at 80%|4 miles|Rest|4 miles|3x5 at 80%|4 miles|6 miles|
+|3: 7/31/23 – 8/6/23|3x3 at 90%|4 miles|Rest|4 miles|3x3 at 90%|4 miles|6 miles|
+|4: 8/7/23 – 8/13/23|3x5 at 75%|5 miles|Rest|5 miles|3x5 at 75%|5 miles|7 miles|
+|5: 8/14/23 – 8/20/23|3x5 at 80%|5 miles|Rest|5 miles|3x5 at 80%|5 miles|7 miles|
+|6: 8/21/23 – 8/27/23|3x3 at 90%|5 miles|Rest|5 miles|3x3 at 90%|5 miles|7 miles|
+|7: 8/28/23 – 9/3/23|SE 3 x 30|4 miles|Rest|SE 3 x 35|4 miles|SE 2 x 40|6 miles: tempo run|
+|8: 9/4/23 – 9/10/23|SE 3 x 40|5 miles|Rest|SE 3 x 45|4 miles|SE 2 x 50|6 miles: tempo run|
+|9: 9/11/23 – 9/17/23|SE 3 x 50|6 miles|Rest|SE 3 x 55|4 miles|SE 2 x 60|6 miles: tempo run|
 
 
 ## Lifting Routine
