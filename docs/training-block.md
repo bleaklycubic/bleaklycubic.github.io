@@ -20,12 +20,12 @@ permalink: /training/
 
 
 ## Lifting Routine
-### Tuesday 
+### Monday 
 Front Squat / Chin-ups<br>
 Deadlift / OH Press<br>
 Hanging Leg Raises
 
-### Thursday
+### Friday
 Front Squat / Chin-up<br>
 Deadlift / OH Press<br>
 Loaded Carry
