@@ -14,9 +14,9 @@ permalink: /training/
 |4: 8/7/23 – 8/13/23|3x5 at 75%|5 miles|Rest|5 miles|3x5 at 75%|5 miles|7 miles|
 |5: 8/14/23 – 8/20/23|3x5 at 80%|5 miles|Rest|5 miles|3x5 at 80%|5 miles|7 miles|
 |6: 8/21/23 – 8/27/23|3x3 at 90%|5 miles|Rest|5 miles|3x3 at 90%|5 miles|7 miles|
-|7: 8/28/23 – 9/3/23|SE 3 x 30|4 miles|Rest|SE 3 x 35|4 miles|SE 2 x 40|6 miles: tempo run|
-|8: 9/4/23 – 9/10/23|SE 3 x 40|5 miles|Rest|SE 3 x 45|4 miles|SE 2 x 50|6 miles: tempo run|
-|9: 9/11/23 – 9/17/23|SE 3 x 50|6 miles|Rest|SE 3 x 55|4 miles|SE 2 x 60|6 miles: tempo run|
+|7: 8/28/23 – 9/3/23|SE 3 x 30|5 miles|Rest|SE 3 x 35|4 miles|SE 2 x 40|6 miles|
+|8: 9/4/23 – 9/10/23|SE 3 x 40 and 4 miles|5 miles|Rest|SE 3 x 45|7 miles|SE 2 x 50|10 miles|
+|9: 9/11/23 – 9/17/23|SE 3 x 50 and 4 miles|5 miles|Rest|SE 3 x 55|7 miles|SE 2 x 60|10 miles|
 
 
 ## Lifting Routine
@@ -132,12 +132,17 @@ kb swings
 single leg rdl
 chinups
 
-possible clusters
 back squat
 pushups
 hanging leg raises
 kb swings
 single leg rdl
+
+strength endurance clusters
+push-ups
+airsquats
+kb swings
+inverted rows
 
 
 
