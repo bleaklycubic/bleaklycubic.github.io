@@ -3,20 +3,29 @@ layout: page
 title: Current Training Block
 permalink: /training/
 ---
-
+Training Block for 2024 Pittsburgh Marathon 
 ## Schedule
 
-||Mo|Tu|We|Th|Fr|Sa|Su|
+||Mo|Tu|We|Th|Fr|Sa|Su|Total Mileage|Actual Mileage Logged|Notes|
 |---|---|---|---|---|---|---|---|
-|1: 7/17/23 – 7/23/23|3x5 at 75%|4 miles|Rest|4 miles|3x5 at 75%|4 miles|5 miles|
-|2: 7/24/23 – 7/30/23|3x5 at 80%|4 miles|Rest|4 miles|3x5 at 80%|4 miles|6 miles|
-|3: 7/31/23 – 8/6/23|3x3 at 90%|4 miles|Rest|4 miles|3x3 at 90%|4 miles|6 miles|
-|4: 8/7/23 – 8/13/23|3x5 at 75%|5 miles|Rest|5 miles|3x5 at 75%|5 miles|7 miles|
-|5: 8/14/23 – 8/20/23|3x5 at 80%|5 miles|Rest|5 miles|3x5 at 80%|5 miles|7 miles|
-|6: 8/21/23 – 8/27/23|3x3 at 90%|5 miles|Rest|5 miles|3x3 at 90%|5 miles|7 miles|
-|7: 8/28/23 – 9/3/23|SE 3 x 30|5 miles|Rest|SE 3 x 35|4 miles|SE 2 x 40|6 miles|
-|8: 9/4/23 – 9/10/23|SE 3 x 40 and 4 miles|5 miles|Rest|SE 3 x 45|7 miles|SE 2 x 50|10 miles|
-|9: 9/11/23 – 9/17/23|SE 3 x 50 and 4 miles|5 miles|Rest|SE 3 x 55|7 miles|SE 2 x 60|10 miles|
+|1: 1/1/24|4.5 miles easy; dumbbells|4.5 miles easy|Dumbbells|2m WU - 1m MP - 2m CD|4.5 miles easy; dumbbells|4 miles|8 miles LR|32.5|24.9|MP felt good|
+|2: 1/8/24|4.5 miles easy; dumbbells|4.5 miles easy|Dumbbells|2m WU - 1.5m MP - 1.5m CD|4.5 miles easy; dumbbells|4 miles|8 miles LR|32.5|28.4|Ran faster than MP on THU. I think I should do closer to 7:30 for the first 5 weeks of plan|
+|3: 1/15/24|4.5 miles easy; dumbbells|4.5 miles easy|Dumbbells|2m WU - 2m MP - 1m CD|4.5 miles easy; dumbbells|4 miles easy|8 miles LR|32.5|||
+|4: 1/22/24|4.5 miles easy; dumbbells|4.5 miles easy|Dumbbells|2m WU - 2m MP - 1m CD|4.5 miles easy; dumbbells|5 miles easy|9 miles LR|32.5|||
+|5: 1/29/24|4.5 miles easy; dumbbells|4.5 miles easy|Dumbbells|1m WU - 3m MP - 1m CD|4.5 miles easy; dumbbells|5 miles easy|10 miles LR|32.5|||
+|6: 2/5/24|4.5 miles easy; dumbbells|workout 1|Dumbbells|1m WU - 3m MP - 1m CD|4.5 miles easy; dumbbells|8 miles easy|8 miles LR|35.75|||
+|7: 2/12/24|4.5 miles easy; dumbbells|worout 2 |Dumbbells|1m WU - 3m MP - 1m CD|4.5 miles easy; dumbbells|6 miles easy|10 miles LR|35.5|||
+|8: 2/19/24|4.5 miles easy; dumbbells|workout 3|Dumbbells|1m WU - 4m MP - 1m CD|4.5 miles easy; dumbbells|6 miles easy|10 miles LR|35.75|||
+|9: 2/26/24|4.5 miles easy; dumbbells|workout 4|Dumbbells|1m WU - 6m MP - 1m CD|4.5 miles easy; dumbbells|5 miles easy|15 miles LR|42.25|||
+|10: 3/4/24|5 miles easy; dumbbells|workout 5|Dumbbells|1m WU - 6m MP - 1m CD|4.5 miles easy; dumbbells|8 miles easy|10 miles LR|40.25|||
+|11: 3/11/24|5 miles easy; dumbbells|workout 6|Dumbbells|1m WU - 7m MP - 1m CD|4.5 miles easy; dumbbells|8 miles easy|16 miles LR|49.25|||
+|12: 3/18/24|5 miles easy; dumbbells|workout 7|Dumbbells|1m WU - 7m MP - 1m CD|4.5 miles easy; dumbbells|8 miles easy|10 miles LR|44|||
+|13: 3/25/24|5 miles easy; dumbbells|workout 8|Dumbbells|1m WU - 7m MP - 1m CD|4.5 miles easy; dumbbells|5 miles easy|16 miles LR|46|||
+|14: 4/1/24|5 miles easy; dumbbells|workout 9|Dumbbells|1m WU - 8m MP - 1m CD|4.5 miles easy; dumbbells|8 miles easy|10 miles LR|46.5|||
+|15: 4/8/24|5 miles easy; dumbbells|workout 10|Dumbbells|1m WU - 9m MP - 1m CD|4.5 miles easy; dumbbells|6 miles easy|16 miles LR|49|||
+|16: 4/15/24|5 miles easy; dumbbells|workout 11|Dumbbells|1m WU - 8m MP - 1m CD|4.5 miles easy; dumbbells|8 miles easy|10 miles LR|45|||
+|17: 4/22/24|6 miles easy; dumbbells|workout 12|Dumbbells|1m WU - 6m MP - 1m CD|4.5 miles easy; dumbbells|6 miles easy|11 miles LR|42.25|||
+|18: 4/29/24|4.5 miles easy|4.5 miles easy|Rest|5 miles easy|Rest|3 miles easy|Race|43.2|||
 
 
 ## Lifting Routine
@@ -87,6 +96,20 @@ Loaded Carry
 
 
 # Previous Training Blocks
+
+## July - September 2023
+||Mo|Tu|We|Th|Fr|Sa|Su|
+|---|---|---|---|---|---|---|---|
+|1: 7/17/23 – 7/23/23|3x5 at 75%|4 miles|Rest|4 miles|3x5 at 75%|4 miles|5 miles|
+|2: 7/24/23 – 7/30/23|3x5 at 80%|4 miles|Rest|4 miles|3x5 at 80%|4 miles|6 miles|
+|3: 7/31/23 – 8/6/23|3x3 at 90%|4 miles|Rest|4 miles|3x3 at 90%|4 miles|6 miles|
+|4: 8/7/23 – 8/13/23|3x5 at 75%|5 miles|Rest|5 miles|3x5 at 75%|5 miles|7 miles|
+|5: 8/14/23 – 8/20/23|3x5 at 80%|5 miles|Rest|5 miles|3x5 at 80%|5 miles|7 miles|
+|6: 8/21/23 – 8/27/23|3x3 at 90%|5 miles|Rest|5 miles|3x3 at 90%|5 miles|7 miles|
+|7: 8/28/23 – 9/3/23|SE 3 x 30|5 miles|Rest|SE 3 x 35|4 miles|SE 2 x 40|6 miles|
+|8: 9/4/23 – 9/10/23|SE 3 x 40 and 4 miles|5 miles|Rest|SE 3 x 45|7 miles|SE 2 x 50|10 miles|
+|9: 9/11/23 – 9/17/23|SE 3 x 50 and 4 miles|5 miles|Rest|SE 3 x 55|7 miles|SE 2 x 60|10 miles|
+
 
 ## May - June 2023
 ### Notes
