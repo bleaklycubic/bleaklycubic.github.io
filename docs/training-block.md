@@ -3,29 +3,46 @@ layout: page
 title: Current Training Block
 permalink: /training/
 ---
-Training Block for 2024 Pittsburgh Marathon 
-## Schedule
+
+## Training Block for 2024 Pittsburgh Marathon 
+### Schedule
 
 ||Mo|Tu|We|Th|Fr|Sa|Su|Total Mileage|Actual Mileage Logged|Notes|
 |---|---|---|---|---|---|---|---|
-|1: 1/1/24|4.5 miles easy; dumbbells|4.5 miles easy|Dumbbells|2m WU - 1m MP - 2m CD|4.5 miles easy; dumbbells|4 miles|8 miles LR|32.5|24.9|MP felt good|
-|2: 1/8/24|4.5 miles easy; dumbbells|4.5 miles easy|Dumbbells|2m WU - 1.5m MP - 1.5m CD|4.5 miles easy; dumbbells|4 miles|8 miles LR|32.5|28.4|Ran faster than MP on THU. I think I should do closer to 7:30 for the first 5 weeks of plan|
-|3: 1/15/24|4.5 miles easy; dumbbells|4.5 miles easy|Dumbbells|2m WU - 2m MP - 1m CD|4.5 miles easy; dumbbells|4 miles easy|8 miles LR|32.5|||
-|4: 1/22/24|4.5 miles easy; dumbbells|4.5 miles easy|Dumbbells|2m WU - 2m MP - 1m CD|4.5 miles easy; dumbbells|5 miles easy|9 miles LR|32.5|||
-|5: 1/29/24|4.5 miles easy; dumbbells|4.5 miles easy|Dumbbells|1m WU - 3m MP - 1m CD|4.5 miles easy; dumbbells|5 miles easy|10 miles LR|32.5|||
-|6: 2/5/24|4.5 miles easy; dumbbells|workout 1|Dumbbells|1m WU - 3m MP - 1m CD|4.5 miles easy; dumbbells|8 miles easy|8 miles LR|35.75|||
-|7: 2/12/24|4.5 miles easy; dumbbells|worout 2 |Dumbbells|1m WU - 3m MP - 1m CD|4.5 miles easy; dumbbells|6 miles easy|10 miles LR|35.5|||
-|8: 2/19/24|4.5 miles easy; dumbbells|workout 3|Dumbbells|1m WU - 4m MP - 1m CD|4.5 miles easy; dumbbells|6 miles easy|10 miles LR|35.75|||
-|9: 2/26/24|4.5 miles easy; dumbbells|workout 4|Dumbbells|1m WU - 6m MP - 1m CD|4.5 miles easy; dumbbells|5 miles easy|15 miles LR|42.25|||
-|10: 3/4/24|5 miles easy; dumbbells|workout 5|Dumbbells|1m WU - 6m MP - 1m CD|4.5 miles easy; dumbbells|8 miles easy|10 miles LR|40.25|||
-|11: 3/11/24|5 miles easy; dumbbells|workout 6|Dumbbells|1m WU - 7m MP - 1m CD|4.5 miles easy; dumbbells|8 miles easy|16 miles LR|49.25|||
-|12: 3/18/24|5 miles easy; dumbbells|workout 7|Dumbbells|1m WU - 7m MP - 1m CD|4.5 miles easy; dumbbells|8 miles easy|10 miles LR|44|||
-|13: 3/25/24|5 miles easy; dumbbells|workout 8|Dumbbells|1m WU - 7m MP - 1m CD|4.5 miles easy; dumbbells|5 miles easy|16 miles LR|46|||
-|14: 4/1/24|5 miles easy; dumbbells|workout 9|Dumbbells|1m WU - 8m MP - 1m CD|4.5 miles easy; dumbbells|8 miles easy|10 miles LR|46.5|||
-|15: 4/8/24|5 miles easy; dumbbells|workout 10|Dumbbells|1m WU - 9m MP - 1m CD|4.5 miles easy; dumbbells|6 miles easy|16 miles LR|49|||
-|16: 4/15/24|5 miles easy; dumbbells|workout 11|Dumbbells|1m WU - 8m MP - 1m CD|4.5 miles easy; dumbbells|8 miles easy|10 miles LR|45|||
-|17: 4/22/24|6 miles easy; dumbbells|workout 12|Dumbbells|1m WU - 6m MP - 1m CD|4.5 miles easy; dumbbells|6 miles easy|11 miles LR|42.25|||
-|18: 4/29/24|4.5 miles easy|4.5 miles easy|Rest|5 miles easy|Rest|3 miles easy|Race|43.2|||
+|1: 1/1/24|4.5mi easy; dumbbells|4.5mi easy|Dumbbells|2mi  WU - 1mi  MP - 2mi  CD|4.5mi easy; dumbbells|4 miles|8mi LR|32.5|24.9|MP felt good|
+|2: 1/8/24|4.5mi easy; dumbbells|4.5mi easy|Dumbbells|2mi  WU - 1.5mi  MP - 1.5mi  CD|4.5mi easy; dumbbells|4 miles|8mi LR|32.5|28.4|I think I should do closer to 7:30 instead of MP for the first few weeks of plan|
+|3: 1/15/24|4.5mi easy; dumbbells|4.5mi easy|Dumbbells|2mi  WU - 2mi  MP - 1mi  CD|4.5mi easy; dumbbells|4mi easy|8mi LR|32.5|||
+|4: 1/22/24|4.5mi easy; dumbbells|4.5mi easy|Dumbbells|2mi  WU - 2mi  MP - 1mi  CD|4.5mi easy; dumbbells|5mi easy|9mi LR|32.5|||
+|5: 1/29/24|4.5mi easy; dumbbells|4.5mi easy|Dumbbells|1mi  WU - 3mi  MP - 1mi  CD|4.5mi easy; dumbbells|5mi easy|10mi LR|32.5|||
+|6: 2/5/24|4.5mi easy; dumbbells|workout 1|Dumbbells|1mi  WU - 3mi  MP - 1mi  CD|4.5mi easy; dumbbells|8mi easy|8mi LR|35.75|||
+|7: 2/12/24|4.5mi easy; dumbbells|worout 2 |Dumbbells|1mi  WU - 3mi  MP - 1mi  CD|4.5mi easy; dumbbells|6mi easy|10mi LR|35.5|||
+|8: 2/19/24|4.5mi easy; dumbbells|workout 3|Dumbbells|1mi  WU - 4mi  MP - 1mi  CD|4.5mi easy; dumbbells|6mi easy|10mi LR|35.75|||
+|9: 2/26/24|4.5mi easy; dumbbells|workout 4|Dumbbells|1mi  WU - 6mi  MP - 1mi  CD|4.5mi easy; dumbbells|5mi easy|15mi LR|42.25|||
+|10: 3/4/24|5mi easy; dumbbells|workout 5|Dumbbells|1mi  WU - 6mi  MP - 1mi  CD|4.5mi easy; dumbbells|8mi easy|10mi LR|40.25|||
+|11: 3/11/24|5mi easy; dumbbells|workout 6|Dumbbells|1mi  WU - 7mi  MP - 1mi  CD|4.5mi easy; dumbbells|8mi easy|16mi LR|49.25|||
+|12: 3/18/24|5mi easy; dumbbells|workout 7|Dumbbells|1mi  WU - 7mi  MP - 1mi  CD|4.5mi easy; dumbbells|8mi easy|10mi LR|44|||
+|13: 3/25/24|5mi easy; dumbbells|workout 8|Dumbbells|1mi  WU - 7mi  MP - 1mi  CD|4.5mi easy; dumbbells|5mi easy|16mi LR|46|||
+|14: 4/1/24|5mi easy; dumbbells|workout 9|Dumbbells|1mi  WU - 8mi  MP - 1mi  CD|4.5mi easy; dumbbells|8mi easy|10mi LR|46.5|||
+|15: 4/8/24|5mi easy; dumbbells|workout 10|Dumbbells|1mi  WU - 9mi  MP - 1mi  CD|4.5mi easy; dumbbells|6mi easy|16mi LR|49|||
+|16: 4/15/24|5mi easy; dumbbells|workout 11|Dumbbells|1mi  WU - 8mi  MP - 1mi  CD|4.5mi easy; dumbbells|8mi easy|10mi LR|45|||
+|17: 4/22/24|6mi easy; dumbbells|workout 12|Dumbbells|1mi  WU - 6mi  MP - 1mi  CD|4.5mi easy; dumbbells|6mi easy|11mi LR|42.25|||
+|18: 4/29/24|4.5mi easy|4.5mi easy|Rest|5mi easy|Rest|3mi easy|Race|43.2|||
+
+### Workouts
+|Workout|Description|
+|--|--|
+|1|8 x 400 @ 5k-10k; 400 recovery|
+|2|6 x 600 @ 5k-10k; 400 recovery |
+|3|4 x 800 @ 5k-10k; 400 recovery|
+|4|4 x 1k @ 5k-10k; 400 recovery|
+|5|3 x 1.2k @ 5k-10k; 400 recovery|
+|6|4 x 1mi @ MP - 10s; 400 recovery|
+|7|3 x 1.5mi @ MP - 10s; 800 recovery|
+|8|2 x 2mi @ MP - 10s; 800 recovery|
+|9|2 x 3mi @ MP - 10s; 1mi recovery|
+|10|2 x 2mi @ MP - 10s;  800 recovery|
+|11|3 x 1.5mi@ MP - 10s; 800 recovery|
+|12|4 x 1mi @ MP - 10s; 400 recovery|
 
 
 ## Lifting Routine
